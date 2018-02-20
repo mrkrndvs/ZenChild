@@ -22,7 +22,7 @@
  
 /* =Imports styles from the parent theme
 -------------------------------------------------------------- */
-@import url('../zenpress/style.css');
+@import url('../zenpress/editor-style.css');
 @import url('../zenpress/print.css');
 @import url('../zenpress/narrow-width.css');
 @import url('../zenpress/default-width.css');
